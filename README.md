@@ -41,3 +41,14 @@ L’analisi si concentra sui dati al 31 dicembre di ogni anno, suddividendo le i
 ## Conclusioni e Implicazioni
 
 L’obiettivo di questa analisi è offrire un punto di partenza strategico per future decisioni di investimento e sviluppo in Sardegna. I dati raccolti evidenziano settori e aree territoriali più dinamiche o a rischio, fornendo una base solida per valutare opportunità di crescita e innovazione.
+
+
+## Strumenti utilizzati
+
+- **Python**: Estrarre e preprocessare i dati provenienti dai CSV pubblici, oltre a fornire un'anteprima dei file finali da utilizzare nel report.
+- **Excel e Power Query**: Pulire e manipolare i file CSV, creare dataset ottimizzati per migliorare l'analisi nel report finale.
+- **Power BI**: Effettuare ulteriori operazioni di pulizia e manipolazione sui dataset se necessario, visualizzare i dati e sviluppare la dashboard con tutti i report.
+
+## Fonti
+- InfoCamere (Movimprese)
+- registroimprese.it
